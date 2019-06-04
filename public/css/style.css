@@ -1,0 +1,45 @@
+/* body{
+    width: 66%;
+} */
+
+#maintitle {
+
+    color: rgb(255, 136, 0) !important;
+
+}
+
+.card-img-top{
+
+width: 25%;
+
+}
+.card{
+    margin-top: 40px;
+    
+}
+
+#bodyContent {
+
+    width: 60%;
+}
+
+#qtyInput{
+    clear: both;
+    float: left;
+    width: 30%;
+}
+#buyButton{
+    clear: both;
+    float: right;
+}
+
+body, div  {
+    border: dashed;
+    border-color: red;
+}
+/* #productpic { */
+    /* width: 50px; */
+    /* height:50px; */
+  /* } */
+  
+
